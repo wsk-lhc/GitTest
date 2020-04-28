@@ -5,6 +5,7 @@ public class GitTest {
 		System.out.println("testGit.....");
 		System.out.println("testadd.....");
 		System.out.println("testlllll");
+		System.out.println("testmmmmmmmm");
 	}
 
 }
